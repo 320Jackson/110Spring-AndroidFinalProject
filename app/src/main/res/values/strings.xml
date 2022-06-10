@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bicycle Monitor</string>
+    <string name="player">Media Player</string>
+    <string name="start">GPS Enable</string>
+    <string name="end">GPS Disable</string>
+    <string name="map">Show maps</string>
+
+    <string name="GPSdisable">GPS not enable</string>
+</resources>
